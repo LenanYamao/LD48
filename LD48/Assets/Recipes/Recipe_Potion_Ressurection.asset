@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595cd453d7493274b8cae316609bf90d, type: 3}
+  m_Name: Recipe_Potion_Ressurection
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: 54bfc5934fc221844b77d2162e4335f9, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 59129ffe30fa35c48a3cfc9427ea3acb, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 70fedd1d2ebce4542bea0915456001d8, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: b08672e072abc8b4e945c49e0edb11ef, type: 2}
+    amount: 1
+  result:
+  - item: {fileID: 11400000, guid: e8a934ef565568640b470717ed534f5b, type: 2}
+    amount: 1

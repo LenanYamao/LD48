@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595cd453d7493274b8cae316609bf90d, type: 3}
+  m_Name: Recipe_Potion_Stone
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: eccbb55fe5b7e4343a254636b38e933d, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: b08672e072abc8b4e945c49e0edb11ef, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: c2b0fef65c5521146ac6c5b33f9ce77b, type: 2}
+    amount: 1
+  result:
+  - item: {fileID: 11400000, guid: 8fb838ac4ad3b5b40a4bad67804d3b7e, type: 2}
+    amount: 1
